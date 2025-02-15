@@ -1,6 +1,4 @@
 import tensorflow as tf
-
-from tensorflow.keras.applications.mobilenet_v2 import preprocess_input, decode_predictions
 import numpy as np
 
 # 1. Cargar un modelo preentrenado (MobileNetV2)
