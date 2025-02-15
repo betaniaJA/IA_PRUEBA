@@ -30,5 +30,5 @@ def classify_food(img_path):
 
 # 4. Ejemplo de uso
 if __name__ == "__main__":
-    image_path = "aguacate.jpg"  # Ruta de la imagen
+    image_path = "mantequilla.jpg"  # Ruta de la imagen
     classify_food(image_path)
